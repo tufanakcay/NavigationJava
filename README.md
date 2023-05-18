@@ -1,2 +1,2 @@
-# NavigationJava
+# Navigation Java
  Navigation Java
